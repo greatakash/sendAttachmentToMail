@@ -1,5 +1,5 @@
 <?php
-require 'include/class.phpmailer.php';
+require 'class.phpmailer.php';
 $email = new PHPMailer();
 $email->From      = 'rajakashxxx@gmail.com';
 $email->FromName  = 'Your Name';
